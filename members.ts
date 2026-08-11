@@ -42,4 +42,10 @@ export type Member = {
         year: "2027",
         major: "Computer Science",
     },
+    {
+        name: "Arjun Bhamra",
+        url: "https://abhamra.com",
+        year: "PhD, 2031",
+        major: "Computer Science",
+    },
   ];
