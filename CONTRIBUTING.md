@@ -5,9 +5,7 @@ Cal Webring is open to current UC Berkeley students, alumni, and faculty with a 
 ## How to join
 
 1. Fork this repo.
-2. Open `members.ts` and add yourself to the `members` array. If you're
-   faculty rather than a student, put your department under `major` and
-   `"Faculty"` under `year`:
+2. Open `members.ts` and add yourself to the `members` array. Grad students and faculty: put your program/department and status (e.g. 'PhD, 2028' or 'Faculty') instead of an undergrad year
 
 ```ts
    {
