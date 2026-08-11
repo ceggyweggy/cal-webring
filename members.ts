@@ -48,4 +48,10 @@ export type Member = {
         year: "PhD, 2031",
         major: "Computer Science",
     },
+    {
+        name: "Xichen Song",
+        url: "https://personal-website-puce-ten-89.vercel.app/",
+        year: "2029",
+        major: "Applied Mathematics",
+    },
   ];
