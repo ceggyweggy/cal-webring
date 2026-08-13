@@ -43,12 +43,6 @@ export type Member = {
         major: "Computer Science",
     },
     {
-        name: "Rena Shrestha",
-        url: "https://renas20.github.io/index.html",
-        year: "2028",
-        major: "Data Science",
-    },
-    {
         name: "Arjun Bhamra",
         url: "https://abhamra.com",
         year: "PhD, 2031",
@@ -59,5 +53,11 @@ export type Member = {
         url: "https://personal-website-puce-ten-89.vercel.app/",
         year: "2029",
         major: "Applied Mathematics",
+    },
+    {
+        name: "Rena Shrestha",
+        url: "https://renas20.github.io/index.html",
+        year: "2028",
+        major: "Data Science",
     },
   ];
