@@ -19,6 +19,12 @@ export type Member = {
         major: "Computer Science",
     },
     {
+        name: "Rena Shrestha",
+        url: "https://renas20.github.io/index.html",
+        year: "2028",
+        major: "Data Science",
+    },
+    {
         name: "Linnea Forslin",
         url: "https://linneaforslin.github.io/",
         year: "2030",
