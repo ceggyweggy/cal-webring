@@ -56,7 +56,7 @@ export type Member = {
     },
     {
         name: "Rena Shrestha",
-        url: "https://renas20.github.io/index.html",
+        url: "https://renas20.github.io/",
         year: "2028",
         major: "Data Science",
     },
