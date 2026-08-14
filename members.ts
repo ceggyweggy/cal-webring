@@ -61,6 +61,12 @@ export type Member = {
         major: "Data Science",
     },
     {
+        name: "Stella Kaval",
+        url: "https://stellakaval.github.io",
+        year: "2025",
+        major: "Computer Science",
+    },
+    {
         name: "Cadence Loh",
         url: "https://ceggyweggy.github.io",
         year: "2029",
